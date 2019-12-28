@@ -19,4 +19,5 @@
 
 * [1. 람다 함수\(Lambda Expression\)](lambda-function/1.-lambda-expression.md)
 * [2. 필터 함수\(Filter Function\)와 맵 함수\(Map Function\)](2.-filter-function-map-function.md)
+* [3. 리듀스\(Reduce\) 함수](3.-reduce.md)
 
