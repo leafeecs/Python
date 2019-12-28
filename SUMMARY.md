@@ -13,4 +13,9 @@
 ## 상속 \(Inheritance\)
 
 * [1. 상속\(Inheritance\)과 super\( \)](inheritance/1.-inheritance-super.md)
+* [2. Object 클래스와 Overriding](2.-object-overriding.md)
+
+## 람다 함수\(Lambda Expression\) <a id="lambda-function"></a>
+
+* [1. 람다 함수\(Lambda Expression\)](lambda-function/1.-lambda-expression.md)
 
