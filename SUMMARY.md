@@ -10,3 +10,7 @@
 * [4. 인스턴스 연산과 특수 메서드](4..md)
 * [5. 클래스 변수와 \_\_dict\_\_](5.-__dict__.md)
 
+## 상속 \(Inheritance\)
+
+* [1. 상속\(Inheritance\)과 super\( \)](inheritance/1.-inheritance-super.md)
+
