@@ -21,9 +21,16 @@
 * [2. 필터 함수\(Filter Function\)와 맵 함수\(Map Function\)](2.-filter-function-map-function.md)
 * [3. 리듀스\(Reduce\) 함수](3.-reduce.md)
 
-## Advanced Python
+## Advanced Python \(참조형\)
 
 * [1. 파이썬 객체와 참조 변수](advanced-python/1..md)
 * [2. 리스트 요소는 참조형이다](2..md)
 * [3. 할당, 얕은 복사와 깊은 복사](3.-1.md)
+* [4. 다차원 리스트의 참조](4.-1.md)
+* [5. 동적 타이핑과 정적 타이핑](5..md)
+
+## Advanced Python \(축약 표현\) <a id="advanced-python-1"></a>
+
+* [1. 리스트 축약 표현\(1\)](advanced-python-1/1.-1.md)
+* [2. 리스트 축약 표현\(2\)](2.-2.md)
 
