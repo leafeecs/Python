@@ -17,7 +17,25 @@
 
 ## 반복문\(loop\)
 
-* [1. range\( \) 함수](loop/1.-range.md)
+* [1. 반복문](loop/1.-range.md)
+
+## 모듈\(Module\)
+
+* [1. 모듈](module/1..md)
+
+## 딕셔너리\(Dictionaries\)
+
+* [1. 딕셔너리](dictionaries/1..md)
+
+## 튜플\(tuple\), 집합\(set\) <a id="tuple"></a>
+
+* [1. 튜플](tuple/1..md)
+
+## 고급 리스트\(LIST ADVANCED\)
+
+* [1. 다양한 메서드](list-advanced/1..md)
+* [2. iterator](list-advanced/2.-iterator.md)
+* [3. list 와 string](list-advanced/3.-list-string.md)
 
 ## 클래스 \(Class\)
 
