@@ -6,6 +6,19 @@
 
 * [1. 변수 \(Variable\)](variables/1.-variable.md)
 
+## 함수 \(Functions\)
+
+* [1. 함수\(Function\)](1.-function.md)
+
+## 리스트\(List\)
+
+* [1. 리스트 값 추가하기/삭제하기](list/1..md)
+* [2. 여러가지 리스트 메서드](list/2..md)
+
+## 반복문\(loop\)
+
+* [1. range\( \) 함수](loop/1.-range.md)
+
 ## 클래스 \(Class\)
 
 * [1. 객체 지향 프로그래밍](class/1..md)
