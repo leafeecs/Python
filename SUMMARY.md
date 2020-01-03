@@ -2,6 +2,10 @@
 
 * [Initial page](README.md)
 
+## 변수 \(Variables\)
+
+* [1. 변수 \(Variable\)](variables/1.-variable.md)
+
 ## 클래스 \(Class\)
 
 * [1. 객체 지향 프로그래밍](class/1..md)
